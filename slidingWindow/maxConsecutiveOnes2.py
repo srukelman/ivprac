@@ -22,7 +22,6 @@ class Solution:
                 if(end < begin):
                     end = begin
                     counter = 0
-            print(str(begin) + " "+ str(end)+" "+str(counter)+" "+str(maxlen))
         if(counter <= k and (end - begin) > maxlen):
                 maxlen = end-begin
         return maxlen
