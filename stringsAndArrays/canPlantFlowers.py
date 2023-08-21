@@ -2,6 +2,7 @@
 Runtime: beats 92.59%
 Memory Usage: beats 60.59%
 '''
+from typing import List
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
         if n == 0:
