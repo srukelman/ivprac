@@ -1,1 +1,5 @@
-"# ivprac" 
+# IVprac
+this is my leetcode solutions to a few recommended problems for interview preparation. I did my best to separate the problems based on categories into files but it got a little messy because the categories come from different sets of problems so they don't align perfectly.
+All of the problems I solved in python3. I know it's not optimal because it's a dynamically typed language which makes it slower, but this was about learning the algorithms and data structures, and I can apply what I learned to any other language easily.
+One note is that I included the LeetCode scores of each solution in terms of what percentage of other solutions it beats in runtime and memory usage. Take these numbers with a grain of salt because somehow they are not super accurate, meaning that submitting the same code can give you two very different scores.
+As I wrote this Github Copilot has just been subtly roasting me. As I was typing out my explanation as to why I used python it was saying stuff like "but I'm not planning on applying to any big tech companies" like I know they don't use python for everything but that was unnecessary and mean. I'm just trying to learn here. <-- Copilot also suggested that last sentence. lol.
