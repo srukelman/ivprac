@@ -1,0 +1,12 @@
+1. First non repeated character from stream of characters
+2. Reverse doubly linkedlist
+3. Stacks
+4. Bfs
+5. LC: common ancestor
+6. LC: house robber
+7. Right view of binary tree
+8. Find all subsets of an array of numbers
+9. Given a list of integers, there is one duplicate value. a) Find it in any way possible. b) Find it in O(n) time. c) Find it in constant space. d) Say there are n duplicates, find them all. d) Find it in O(n) time and constant space.
+10. modify a link list to have even index and then odd index .
+11. Min heap
+12. Binary search
